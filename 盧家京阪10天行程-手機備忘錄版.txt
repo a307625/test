@@ -412,4 +412,57 @@ Day10｜7/23（四）京都 → 關西機場
 ・7/21 近鐵特急：大和西大寺轉乘；可現場購票；推車放座席末端
 ・7/23 Haruka：需乗車券+特急券+指定席（IC單刷不夠）
 
+━━━━━━━━━━━━━━━━
+關西鐵道圖資源（大阪／京都／神戶中文對照）
+━━━━━━━━━━━━━━━━
+【首推・一張圖三地對照】
+KANSAI ONE PASS 關西鐵道網路路線圖（繁中・含JR地鐵私鐵）
+https://kansaionepass.com/tw/pdf/tw_map_kansai.pdf
+瀏覽頁：https://kansaionepass.com/tw/railway_map.html
+
+JR西日本 全關西路線圖（繁中）
+https://www.westjr.co.jp/global/tc/timetable/pdf/map_kansai.pdf
+瀏覽頁：https://www.westjr.co.jp/travel-information/tc/plan-your-trip/routes-schedule/
+
+【分區放大版・看得更清楚】
+大阪地區：https://kansaionepass.com/tw/pdf/tw_map_osaka2025.pdf
+京都地區：https://kansaionepass.com/tw/pdf/tw_map_kyoto2025.pdf
+神戶地區：https://kansaionepass.com/tw/pdf/tw_map_kobe2025.pdf
+（JR版）大阪：https://www.westjr.co.jp/global/tc/timetable/pdf/map_osaka.pdf
+（JR版）京都：https://www.westjr.co.jp/global/tc/timetable/pdf/map_kyoto.pdf
+（JR版）神戶：https://www.westjr.co.jp/global/tc/timetable/pdf/map_kobe.pdf
+
+【純地鐵路線圖・各城市官方】
+大阪 Osaka Metro 互動路線圖（繁中）
+https://subway.osakametro.co.jp/tw/guide/routemap.php
+大阪 Metro PDF：https://subway.osakametro.co.jp/img/osakametro_rosenzu_20250404.pdf
+
+京都 地下鐵＋主要巴士（簡中PDF）
+https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/CHS(map)260320busnavi.pdf
+京都 路線圖總頁：https://www.city.kyoto.lg.jp/kotsu/page/0000019770.html
+
+神戶 地鐵＋周邊JR阪神阪急（簡中圖）
+https://kotsu.city.kobe.lg.jp/wp-content/uploads/02_/6lev57ea5zuz/02s_chinese_1.jpg
+神戶 路線圖總頁：https://kotsu.city.kobe.lg.jp/subway/route-map/
+
+【存進iPhone建議】
+1. tw_map_kansai.pdf（全關西一覽）
+2. tw_map_osaka2025.pdf（大阪細看）
+3. tw_map_kyoto2025.pdf（京都細看）
+Safari開PDF→分享→儲存到檔案／加入照片
+
+【本行程重點站・找地圖用】
+大阪：鶴橋（近鐵／千日前／JR）・大阪城／森之宮（JR）
+      天王寺（御堂筋）・日本橋／難波／心齋橋（千日前＋御堂筋）
+      大阪港（中央線）・天神橋筋（堺筋）・梅田（谷町＋御堂筋）
+      枚方公園（近鐵奈良線）
+神戶：神戶站（JR）→步行MOSAIC／umie
+京都：京都站（JR＋近鐵）・四条河原町／錦市場（步行）
+      金閣寺（無地鐵・計程車）
+
+【三城連線簡圖】
+京都站 ←近鐵特急← 大和西大寺 ←快速急行← 鶴橋（大阪）
+梅田 ←→ 阪急／阪神 ←→ 神戶三宮／神戶站 → MOSAIC
+（實際轉乘以 tw_map_kansai.pdf 為準）
+
 祝旅途愉快・媽媽生日快樂 🎂
